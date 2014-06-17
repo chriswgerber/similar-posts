@@ -1,10 +1,9 @@
-=== Similar Posts ===
-Contributors: RobMarsh
-Donate link: http://rmarsh.com/donate/similar-posts/
+=== Similar Posts + ===
+Contributors: ChrisWGerber, RobMarsh
 Tags: posts, related, similar, related posts, similar posts, tags, post-plugins
 Requires at least: 1.5
 Tested up to: 2.6.2
-Stable tag: 2.6.2.0
+Stable tag: 1.0.0
 Displays a list of posts similar to the current one based on content, title and/or tags.
 
 == Description ==

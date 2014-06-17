@@ -1,5 +1,5 @@
-Similar Posts
-=============
+Similar Posts +
+===============
 
 Fork of the ["Similar Posts"][1] plugin for WordPress, originally developed by RobMarsh.
 
